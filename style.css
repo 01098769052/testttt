@@ -1,0 +1,5 @@
+.item{
+    width: calc(97%/3);
+    display: inline-block;
+    text-align: center;
+}
